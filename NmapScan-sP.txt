@@ -1,0 +1,20 @@
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2018-04-06 20:17 BRT
+Nmap scan report for 192.168.9.71
+Host is up (-0.100s latency).
+MAC Address: 30:85:A9:36:58:18 (Asustek Computer)
+Nmap scan report for 192.168.9.74
+Host is up (0.00011s latency).
+MAC Address: 30:85:A9:36:52:5F (Asustek Computer)
+Nmap scan report for 192.168.9.75
+Host is up (0.00013s latency).
+MAC Address: 30:85:A9:36:58:21 (Asustek Computer)
+Nmap scan report for 192.168.9.81
+Host is up (0.00028s latency).
+MAC Address: F4:30:B9:A6:25:C2 (Unknown)
+Nmap scan report for 192.168.9.82
+Host is up (-0.100s latency).
+MAC Address: DC:0E:A1:BD:30:51 (Compal Information (kunshan) CO.)
+Nmap scan report for 192.168.9.70
+Host is up.
+Nmap done: 256 IP addresses (6 hosts up) scanned in 2.87 seconds
